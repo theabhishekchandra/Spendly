@@ -256,3 +256,7 @@ Phased by dependency and risk, not calendar time — full detail in
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<p align="center">
+  <sub>Built with ☕ and Kotlin · If you find Spendly useful, drop a ⭐</sub>
+</p>
